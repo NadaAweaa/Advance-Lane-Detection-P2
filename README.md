@@ -17,7 +17,7 @@ Project 2 for Self-Driving Car Nanodgree
 
 Python3 Along with:
 
-*1- Numpy
-*2- Matplotlib
-*3- OpenCV Using Jupyter Nootbook
-*4- glob
+* 1- Numpy
+* 2- Matplotlib
+* 3- OpenCV Using Jupyter Nootbook
+* 4- glob
